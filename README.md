@@ -1,5 +1,5 @@
 <h1>Vanity Gallery</h1>
-<p>Capture your daily masterpieces — photo and thought included. 💭📸</p>
+<p>Capture and list your daily masterpieces, photo and thought included. </p>
 
 <div class="controls">
   <input type="file" id="imageInput" accept="image/*">
